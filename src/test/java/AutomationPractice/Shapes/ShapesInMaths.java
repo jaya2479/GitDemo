@@ -16,4 +16,9 @@ public class ShapesInMaths {
 		System.out.println("Rectangle is a shape with 4 angles");
 	}
 
+	@Test
+	public void SquareShape()
+	{
+		System.out.println("Square is a shape with 4 angles");
+	}
 }
